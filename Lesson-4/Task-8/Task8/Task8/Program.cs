@@ -16,7 +16,7 @@ namespace Task8
 
             DateTime dd = DateTime.Now;
             Console.WriteLine(dd.DayOfWeek.ToString());
-            Console.WriteLine(((int)dd.DayOfWeek)+1);
+            Console.WriteLine(((int)dd.DayOfWeek));
             Console.ReadKey();
 
 

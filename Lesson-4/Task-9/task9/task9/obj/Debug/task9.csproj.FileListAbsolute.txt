@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-4\Task-9\task9\task9\bin\Debug\task9.exe.config
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-4\Task-9\task9\task9\bin\Debug\task9.exe
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-4\Task-9\task9\task9\bin\Debug\task9.pdb
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-4\Task-9\task9\task9\obj\Debug\task9.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-4\Task-9\task9\task9\obj\Debug\task9.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-4\Task-9\task9\task9\obj\Debug\task9.exe
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-4\Task-9\task9\task9\obj\Debug\task9.pdb
