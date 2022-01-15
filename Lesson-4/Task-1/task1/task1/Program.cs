@@ -13,7 +13,6 @@ namespace task1
             //Doğum gününüzün həftə gününü (məs: Bazar ertəsi) hesablayan C# yazın
             Console.WriteLine("zehmet olmazsa dogum tarixinizi qeyd edin:");
             DateTime dt = DateTime.Parse(Console.ReadLine());
-            
             Console.WriteLine(dt.DayOfWeek);
             Console.ReadKey();
         }
