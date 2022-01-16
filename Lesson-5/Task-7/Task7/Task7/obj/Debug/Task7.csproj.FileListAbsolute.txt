@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-7\Task7\Task7\bin\Debug\Task7.exe.config
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-7\Task7\Task7\bin\Debug\Task7.exe
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-7\Task7\Task7\bin\Debug\Task7.pdb
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-7\Task7\Task7\obj\Debug\Task7.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-7\Task7\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-7\Task7\Task7\obj\Debug\Task7.exe
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-7\Task7\Task7\obj\Debug\Task7.pdb
