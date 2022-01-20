@@ -11,25 +11,19 @@ namespace Task8
         static void Main(string[] args)
         {
             //Ədədin palindrom ( vizual simmetrik ) olub olmadığını yoxlamaq üçün C# dilində proqram yazın .
-            int i, var1, sum = 0;
+            string num = Console.ReadLine();
+            char[] arr = num.ToCharArray();
+            
+                if (arr[0] == arr[arr.Length-1])
+                {
+                    Console.WriteLine($"{num} polindrom ededdir..");
+                }
+                else
+                {
+                    Console.WriteLine($"{num} polindrom eded deyil..");
+                }
+            
 
-            Console.Write("Enter any number : ");
-            int number = int.Parse(Console.ReadLine());
-
-            for (i = number; number != 0; number /= 10)
-            {
-                var1 = number % 10;
-                sum = sum * 10 + var1;
-            }
-
-            if (i == sum)
-            {
-                Console.Write("{0} is a palindrome number.", i);
-            }
-            else
-            {
-                Console.Write("{0} is not a palindrome number.", i);
-            }
             Console.ReadKey();
         }
 
