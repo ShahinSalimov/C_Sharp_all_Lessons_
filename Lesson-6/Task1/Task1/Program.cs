@@ -43,6 +43,7 @@ namespace Task1
             {
                 Console.WriteLine(item);
             }
+            
             Console.ReadKey();
         }
     }
