@@ -36,6 +36,13 @@ namespace Task1
             {
                 Console.WriteLine(item);
             }
+            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("coxdan aza dogru..");
+            Array.Reverse(arr);
+            foreach (var item in arr)
+            {
+                Console.WriteLine(item);
+            }
             Console.ReadKey();
         }
     }
