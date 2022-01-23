@@ -4,21 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Star2
+namespace Star3
 {
     class Program
     {
         static void Main(string[] args)
         {
-            for (int i = 5; i > 0; i--)
+            for (int i = 0; i < 5; i++)
             {
-                for (int j = 0; j <i; j++) 
+                for (int j = i; j < 5; j++)
                 {
-                    Console.Write("* ");   
+                    Console.Write(" ");
+                }
+                for (int a = 0; a <=i; a++)
+                {
+                    Console.Write("*");
                 }
                 Console.WriteLine();
             }
-            Console.ReadKey(true);
+            Console.ReadKey();
         }
     }
 }
