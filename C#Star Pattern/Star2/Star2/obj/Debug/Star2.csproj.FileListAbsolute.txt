@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\C#Star Pattern\Star2\Star2\bin\Debug\Star2.exe.config
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\C#Star Pattern\Star2\Star2\bin\Debug\Star2.exe
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\C#Star Pattern\Star2\Star2\bin\Debug\Star2.pdb
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\C#Star Pattern\Star2\Star2\obj\Debug\Star2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\C#Star Pattern\Star2\Star2\obj\Debug\Star2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\C#Star Pattern\Star2\Star2\obj\Debug\Star2.exe
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\C#Star Pattern\Star2\Star2\obj\Debug\Star2.pdb
