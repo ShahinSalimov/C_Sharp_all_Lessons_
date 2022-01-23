@@ -27,14 +27,14 @@ namespace Task6_hackerrank_
             string day;
             if (year%4==0 && year%400==0 && year%100!=0)
             {
-                int sum = 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31;
+                int sum = 31 + 29 + 31 + 30 + 31 + 30 + 31 + 31;
                 int Leapyear = progDay - sum;
                 day = $"{Leapyear}:09:{year}";
 
             }
             else
             {
-                int sum1 = 31 + 29 + 31 + 30 + 31 + 30 + 31 + 31;
+                int sum1 = 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31;
                 int Leapyear = progDay - sum1;
                 day = $"{Leapyear}:09:{year}";
 
