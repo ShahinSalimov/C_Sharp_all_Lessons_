@@ -10,9 +10,9 @@ namespace Task4_hackerrrank_
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i <=4; i++)
+            for (int i = 0; i <4; i++)
             {
-                for (int j = i; j < 4; j++)
+                for (int j = i; j < 3; j++)
                 {
                     Console.Write (" ");
                 }

@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-7\Task6(hackerrank)\Task6(hackerrank)\bin\Debug\Task6(hackerrank).exe.config
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-7\Task6(hackerrank)\Task6(hackerrank)\bin\Debug\Task6(hackerrank).exe
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-7\Task6(hackerrank)\Task6(hackerrank)\bin\Debug\Task6(hackerrank).pdb
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-7\Task6(hackerrank)\Task6(hackerrank)\obj\Debug\Task6(hackerrank).csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-7\Task6(hackerrank)\Task6(hackerrank)\obj\Debug\Task6(hackerrank).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-7\Task6(hackerrank)\Task6(hackerrank)\obj\Debug\Task6(hackerrank).exe
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-7\Task6(hackerrank)\Task6(hackerrank)\obj\Debug\Task6(hackerrank).pdb
