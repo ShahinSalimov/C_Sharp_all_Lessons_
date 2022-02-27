@@ -10,19 +10,14 @@ namespace Star3
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 5; i++)
-            {
-                for (int j = i; j < 5; j++)
-                {
-                    Console.Write(" ");
-                }
-                for (int a = 0; a <=i; a++)
-                {
-                    Console.Write("*");
-                }
-                Console.WriteLine();
-            }
-            Console.ReadKey();
+            DateTime cari = DateTime.Now;
+            int yawim = cari.Year - 1987;
+            int onilSonrakiyash = yawim + 10;
+            Console.WriteLine(yawim);
+            Console.WriteLine(onilSonrakiyash);
+
+         Console.ReadKey();
         }
+       
     }
 }

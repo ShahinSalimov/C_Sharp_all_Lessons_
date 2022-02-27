@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\bin\Debug\net5.0\Task9.exe
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\bin\Debug\net5.0\Task9.deps.json
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\bin\Debug\net5.0\Task9.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\bin\Debug\net5.0\Task9.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\bin\Debug\net5.0\Task9.dll
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\bin\Debug\net5.0\Task9.pdb
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\obj\Debug\net5.0\Task9.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\obj\Debug\net5.0\Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\obj\Debug\net5.0\Task9.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\obj\Debug\net5.0\Task9.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\obj\Debug\net5.0\Task9.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\obj\Debug\net5.0\Task9.dll
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\obj\Debug\net5.0\refint\Task9.dll
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\obj\Debug\net5.0\Task9.pdb
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\obj\Debug\net5.0\Task9.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-5\Task-9\Task9\Task9\obj\Debug\net5.0\ref\Task9.dll
