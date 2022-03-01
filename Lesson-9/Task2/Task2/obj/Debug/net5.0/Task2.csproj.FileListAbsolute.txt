@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\bin\Debug\net5.0\Task2.exe
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\bin\Debug\net5.0\Task2.deps.json
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\bin\Debug\net5.0\Task2.dll
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\bin\Debug\net5.0\Task2.pdb
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\obj\Debug\net5.0\Task2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\obj\Debug\net5.0\Task2.dll
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\obj\Debug\net5.0\refint\Task2.dll
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\obj\Debug\net5.0\Task2.pdb
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\My_Developer_Foulder\Csharp_Lessons\Lesson-9\Task2\Task2\obj\Debug\net5.0\ref\Task2.dll
