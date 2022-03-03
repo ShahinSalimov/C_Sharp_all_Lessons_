@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pRFGTiRHMbngYG1We5MJ45gDE9Diq+89gz/yIKpeX56dbpc7QFt6ofhUg+cUXmHpUZo5RiXItt/ytW8N/6h2NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\My_Developer_Foulder\\Csharp_Lessons\\Lesson-10\\Task 1\\Task 1\\Task 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
